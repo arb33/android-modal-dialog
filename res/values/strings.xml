@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="modaldialog_app">Modal Dialog Test</string>
+    <string name="bad_event">Do bad thing!</string>
+</resources>
+
